@@ -1,0 +1,19 @@
+{
+  "name": "analisador-gastos",
+  "version": "1.0.0",
+  "description": "Meus Gastos: servidor Node.js (sem dependências) com app web, API REST, análise mensal e gráficos; também gera relatório a partir de CSV.",
+  "main": "src/server.js",
+  "bin": {
+    "analisador-gastos": "src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "exemplo": "node scripts/gerar-exemplo.js",
+    "relatorio": "node src/cli.js data/exemplo.csv",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

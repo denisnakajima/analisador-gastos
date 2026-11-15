@@ -1,0 +1,4 @@
+data/gastos.json
+data/*.tmp
+saida/
+node_modules/

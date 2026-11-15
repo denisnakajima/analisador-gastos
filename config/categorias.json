@@ -1,0 +1,46 @@
+{
+  "_ajuda": "Edite à vontade. 'cor' é o slot (1-8) da paleta; 'palavras' casam como palavra inteira, sem acento e sem diferenciar maiúsculas. A primeira categoria que casar vence.",
+  "categorias": [
+    {
+      "nome": "Moradia",
+      "cor": 1,
+      "palavras": ["aluguel", "condominio", "iptu", "enel", "sabesp", "comgas", "energia", "luz", "agua", "gas", "fibra", "internet"]
+    },
+    {
+      "nome": "Alimentação",
+      "cor": 2,
+      "palavras": ["mercado", "supermercado", "extra", "carrefour", "atacadao", "pao de acucar", "padaria", "acougue", "hortifruti", "ifood", "rappi", "restaurante", "lanchonete", "pizzaria", "cafe"]
+    },
+    {
+      "nome": "Transporte",
+      "cor": 3,
+      "palavras": ["uber", "99", "99pop", "posto", "shell", "ipiranga", "combustivel", "gasolina", "estacionamento", "metro", "sptrans", "bilhete unico", "pedagio", "sem parar", "oficina"]
+    },
+    {
+      "nome": "Lazer",
+      "cor": 4,
+      "palavras": ["cinema", "ingresso", "show", "teatro", "bar", "cerveja", "parque", "viagem", "hotel", "airbnb", "steam", "playstation", "xbox"]
+    },
+    {
+      "nome": "Saúde",
+      "cor": 5,
+      "palavras": ["farmacia", "farmacias", "drogasil", "drogaria", "raia", "pacheco", "consulta", "clinica", "hospital", "laboratorio", "unimed", "dentista", "plano de saude", "academia", "smartfit"]
+    },
+    {
+      "nome": "Educação",
+      "cor": 6,
+      "palavras": ["udemy", "alura", "coursera", "curso", "faculdade", "escola", "livraria", "mensalidade escolar"]
+    },
+    {
+      "nome": "Assinaturas",
+      "cor": 7,
+      "palavras": ["netflix", "spotify", "disney", "hbo", "prime video", "youtube", "icloud", "google one", "apple"]
+    },
+    {
+      "nome": "Compras",
+      "cor": 8,
+      "palavras": ["amazon", "mercadolivre", "shopee", "magalu", "magazine luiza", "americanas", "renner", "zara", "shein", "aliexpress", "casas bahia", "kabum"]
+    }
+  ],
+  "ignorar": ["pagamento fatura", "pagto fatura", "transferencia propria", "aplicacao", "resgate"]
+}
